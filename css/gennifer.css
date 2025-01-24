@@ -1,0 +1,49 @@
+h1 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 45px;
+  color: #4b3f5d;
+  text-align: center;
+}
+.pink-word {
+  color: #ff80ac;
+}
+
+h2 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 28px;
+  color: #4b3f5d;
+  text-align: center;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  padding-bottom: 5%;
+}
+
+img {
+  margin-right: 5%;
+}
+.gen {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  padding-right: 5%;
+  border: #ff80ac 2px solid;
+}
+
+nav,
+p {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 20px;
+  color: #4b3f5d;
+  text-align: center;
+  font-weight: 550;
+}
